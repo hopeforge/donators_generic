@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rising-armor-261318",
+  "private_key_id": "6ef004dbc8805b64a3388a1ca90f3dfb91963810",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3w7h03n3o1/uy\n9cevnARj/vxvvr1TP9lC5zz+JEcTbCdQuEn2502rzvKj0gfnWlivnKNVKEfjZvuy\nHWco9DegYUpH9Wmbon/Zrn5xOpDa7zy7NkY62EYV3oDmXmxR1ecJIi1zs60F+L8O\nvUUCuS1nUYAUhz7/5gZWG0LgcK8AIZgma6OYNp/dhzCT8o3clXscD4PwfUbqPAFS\ne++fvWljiMIhA97F7Y0FNET5bfLSqi/z8tSX/T0upYaeGuFwvUa9suOMtbgkgW1A\nx7ulmshMjgqFvLyeE/LwVTt6f4LutYOHZwH0wZixN0v+o55ym4yg6bYSycKgUMpV\nKvzFZ4IbAgMBAAECggEABo/vs1oKpwOnfQbiivaIVZsnypnGIFtEV+udYE9NVnfj\nQ4er5IGdYshGHpbZKhLY3enlufHGohaYYGOaaST8zjZgilyiLn5JZdhMXaDDcX4K\nQ36MWCecVnBBVs4CZ5MQPWGXZpgA/W3vl1187Gb5JG+4TNizkDyCTMA2eCtYpH7U\nUfX/jkOYeofYIDsjjpLSAjxIYTRSnhaEKgsHZbC1xKVyv23pbR5Ko1C471qiFYg4\nxt8ooC0Yr7iN81jCDM6eaB8dCcrKRvKfHl2eYuePaLx3F9Vy48ouni1k23iwjoPu\noxbQXQbgkCRHhm4yHuuXBU5zbWsGMqIvUQ1PZoa1EQKBgQD4hln7uOhHAnSTnBPn\nDju0/z9n9CeZLf8cUYnJKj9FPm/K8D/x4lF9bACGJBMZRDJkDAeH0halq/uGg1PS\nn7JkQ7leRt1vv9+ThN3YZjHkGnGnZ81LF2ybXFGaPhnnpkJc4hVtbE20iRWkjQ+r\n7OiHHbNdSTc7QdPfhiuGcy6CuQKBgQC9SraEXbQRYFe1t72RNyybTM0yr0lWZnbq\nHsAvfuy3haAWV6vNo0j0QioOPUhQzkePVQ6dGUiLPiAjC8l+cCBNDAVtG9v+jLcQ\nbbHfZf4PTESWRuVWVe66Bdjt0ijblGIbRG0YlFl282yxZKDCFoWPUF57832kP31l\njOWGTziRcwKBgQCuTiScbVLUQv+aa9R1sMDlsEQ7V73SLLWJmhKmebAIk8L6tchT\nkSUQb4hqjLCsfu1MyDcb5pilt9rgvAk1Z3ZJ5koDunYio5NetsiVtw906ase+6m7\n6gDtcjF1meq3Ux+mX5chuN1DKwZ388uzDKUF5yne2rQXJpNAaazrTqunWQKBgQCm\n1oomAnzqb9L+vDLeIhYzzy5xBOQLvgYDdhUIB8PWQXWHG8C2X7u2ZfaxVDw/1IBo\nCZz2xEkXSSuEGCiBQ4yEvBqwP0TYh+f2F+kVsMyLaTpuhZAvV1AxL2QywO/4EUGj\nLN1HM8HiwMzFUZ8LUlRnq3uLnmHX+YmpjtTiW0LNlwKBgCdvQ8M75D9lJBCXUOiB\nymDru3eN17xWC6mBQr1Qm91i1V4GEZQ4qaYd2xKrTcVYII19af6VuUPRoAJo1STl\nnDNYRC05kkbaS+XFLP67lprRB9X5akneJYev/kJMN9TU5dzH89qPJ2Ycd7xWn2aF\nENEGl3zl3jy6QgxGQ/uZ9lFm\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackaton@rising-armor-261318.iam.gserviceaccount.com",
+  "client_id": "114778549015257012423",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackaton%40rising-armor-261318.iam.gserviceaccount.com"
+}

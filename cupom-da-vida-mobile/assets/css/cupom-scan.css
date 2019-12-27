@@ -1,0 +1,19 @@
+#camera {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+canvas {
+    max-width: 100%;
+}
+
+#preview {
+    display: none;
+    padding: 30px;
+} 
+
+.botoes {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,37 @@
+/* GERAL 
+----------------------------------------------------- */
+html {
+	scroll-behavior: smooth;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', Helvetica, sans-serif;
+	color: #777777;
+	background-color: #FFF;
+}
+h1, h2, h3 {
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+p {
+	margin: 5px 0;
+	font-size: 12pt;
+}
+a {
+	text-decoration: none;
+	color: #009966;
+}
+a:hover {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	margin-top: 70px;
+}

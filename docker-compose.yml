@@ -1,0 +1,8 @@
+version: '2'
+services:
+  app:
+    build:
+      context: ./cupom-da-vida
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
